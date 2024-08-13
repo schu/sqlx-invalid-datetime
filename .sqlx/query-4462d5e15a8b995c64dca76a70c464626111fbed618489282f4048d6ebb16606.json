@@ -1,0 +1,20 @@
+{
+  "db_name": "SQLite",
+  "query": "\n        SELECT ts as \"ts: String\"\n        FROM foo\n        ",
+  "describe": {
+    "columns": [
+      {
+        "name": "ts: String",
+        "ordinal": 0,
+        "type_info": "Datetime"
+      }
+    ],
+    "parameters": {
+      "Right": 0
+    },
+    "nullable": [
+      true
+    ]
+  },
+  "hash": "4462d5e15a8b995c64dca76a70c464626111fbed618489282f4048d6ebb16606"
+}

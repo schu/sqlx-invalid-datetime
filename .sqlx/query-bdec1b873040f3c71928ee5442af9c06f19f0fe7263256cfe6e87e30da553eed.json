@@ -1,0 +1,12 @@
+{
+  "db_name": "SQLite",
+  "query": "\n        INSERT INTO foo (ts) VALUES ('Mon, 12 Aug 2024 12:00:00 +0000');\n        ",
+  "describe": {
+    "columns": [],
+    "parameters": {
+      "Right": 0
+    },
+    "nullable": []
+  },
+  "hash": "bdec1b873040f3c71928ee5442af9c06f19f0fe7263256cfe6e87e30da553eed"
+}
